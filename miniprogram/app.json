@@ -1,6 +1,5 @@
 {
     "pages": [
-        "pages/test/test",
         "pages/mine/mine",
         "pages/gdoc/gdoc",
         "pages/new/new"
